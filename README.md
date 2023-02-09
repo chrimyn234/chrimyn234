@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **christopherowenprawira@gmail.com**
 
-- 📄 Know about my experiences [https://chrimyn234.github.io/cleanfolio/static/media/ChristopherResume2022.599a2849.pdf](https://chrimyn234.github.io/cleanfolio/static/media/ChristopherResume2022.599a2849.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/christopher-prawira-b7a190158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher-prawira" height="30" width="40" /></a>
