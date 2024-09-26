@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christopher Owen Prawira</h1>
-<h3 align="center">A passionate software developer with a huge interest in discovering and learning about new emerging technologies</h3>
-
-- 🌱 I’m currently learning **front-end development in React**
-
-- 👨‍💻 My major projects are available at [https://chrimyn234.github.io/cleanfolio/](https://chrimyn234.github.io/cleanfolio/)
+<h3 align="center">A passionate full stack web developer with a huge interest in discovering and learning about new emerging technologies</h3>
 
 - 📫 How to reach me **christopherowenprawira@gmail.com**
 
